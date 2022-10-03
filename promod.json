@@ -1,0 +1,20 @@
+{
+	"name": "Pro Mod Definitive Edition's Packs",
+	"version": "22.1003",
+	"packages": {
+		"pro_base": {
+			"description": "The core of the Pro Mod. Disable all other RVGL packs before using this.",
+			"version": "22.1003",
+			"checksum": "2c98dd19248ac797b7ce3275a17d32832f449212216323d3a54709d5446e0e1e",
+			"url": "https://www.aliasrevoltmaster.com/downloads/launcher/pro_base.zip",
+			"file": "pro_base.zip"
+		},
+		"pro_strings": {
+			"description": "Strings used by the Pro Mod. NECESSARY to run the Pro Mod correctly.",
+			"version": "22.1003",
+			"checksum": "93e1e74326f9a343e00e407860192338702b7c422f3156a1179064b58041b7a5",
+			"url": "https://www.aliasrevoltmaster.com/downloads/launcher/pro_strings.zip",
+			"file": "pro_strings.zip"
+		}
+	}
+}
