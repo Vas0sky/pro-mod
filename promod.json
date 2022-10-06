@@ -5,7 +5,7 @@
 		"pro_base": {
 			"description": "The core of the Pro Mod. Disable all other RVGL packs before using this.",
 			"version": "22.1003",
-			"checksum": "2c98dd19248ac797b7ce3275a17d32832f449212216323d3a54709d5446e0e1e",
+			"checksum": "f6469493183e08b3cf877c1b5a2cf8b923af955198ba186564b06e9c5599581c",
 			"url": "https://www.aliasrevoltmaster.com/downloads/launcher/pro_base.zip",
 			"file": "pro_base.zip"
 		},
